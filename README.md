@@ -46,3 +46,4 @@ But if the data was more realistic, and the company had *any* workers younger th
 
 ![image](https://user-images.githubusercontent.com/1015285/121823188-29cf0e80-cc69-11eb-905f-be2e316c08cf.png)
 
+The company will obviously want to begin hiring younger, and increase the number of those people it places into leadership roles.
